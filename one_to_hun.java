@@ -17,7 +17,7 @@ public class one_to_hun{
             }
           }
           for(int i=0;i<li.size();i++){
-            System.out.print(li.get(0)+" ");
+            System.out.print(li.get(j)+" ");
           }
     }
 }
