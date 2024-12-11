@@ -6,7 +6,7 @@ public class one_to_hun{
           for(int i=2;i<=100;i++)
           {
             count=0;
-            for(int j=1;j<=i;j++)
+            for(int j=1;i<=i;j++)
             {
                 if(i%j==0){
                     count++;
