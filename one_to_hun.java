@@ -16,8 +16,8 @@ public class one_to_hun{
                 li.add(i);
             }
           }
-          for(int i=0;i<li.size()-10;i++){
-            System.out.print(li.get(i)+" ");
+          for(int i=0;i<li.size();i++){
+            System.out.print(li.get(0)+" ");
           }
     }
 }
